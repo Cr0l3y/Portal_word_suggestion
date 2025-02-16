@@ -9,7 +9,7 @@ A news portal that needs to classify article titles and descriptions into differ
 
 
 
-
+<img src="Portal.PNG" alt="RPsummary" width="600">
 
 ---
 ***PT-BR***
@@ -22,10 +22,7 @@ Um porta de noticias que precisa classificar os títulos e descrições dos arti
 
 
 
-
-
-
-
+<img src="Portal.PNG" alt="RPsummary" width="600">
 
 
 
