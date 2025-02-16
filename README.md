@@ -30,3 +30,15 @@ Um porta de noticias que precisa classificar os títulos e descrições dos arti
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
